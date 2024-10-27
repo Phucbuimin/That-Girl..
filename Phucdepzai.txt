@@ -1,0 +1,5 @@
+Config = {
+    namescript = "Phucdepzai Hub",
+    logoscript = "122794908967895",
+    tacgia = "phuc"
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Phucdepzai Hub/Phucdepzai/main/Phucdepzai Hub.lua"))()
